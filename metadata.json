@@ -1,0 +1,6 @@
+{
+  "name": "Works On My Machine Studio",
+  "description": "Where if it builds locally, it's ready for production. Official meme generator, production chaos simulator, and developer certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
